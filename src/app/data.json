@@ -1539,7 +1539,7 @@
     "ageRating": 14,
     "thumbnail": "https://media.themoviedb.org/t/p/original/xlXdtc8QfwALtJW1o4UwRLt31Qy.jpg",
     "tags": ["Action & Adventure", "Comedy", "Sci-Fi & Fantasy"],
-    "internetArchiveUrl": "",
+    "internetArchiveUrl": "https://ia600100.us.archive.org/26/items/in-another-world-with-my-smartphone_202409/In Another World With My Smartphone/",
     "seasons": {
       "s1": {
         "e1": {
@@ -2296,6 +2296,354 @@
           "title": "And So, Off into the World...",
           "releaseDate": "June 26, 2019",
           "description": "Sizilien has her hands full performing triage at the aid station, while Shin and the others are occupied with Miria's exceptional fighting skills. Once the dust settles, Aug proposes a plan to King Sweed that could change the entire world."
+        }
+      }
+    }
+  },
+  "Chivalry of a Failed Knight": {
+    "title": "Chivalry of a Failed Knight",
+    "description": "Magic Knights are modern magic-users who fight with weapons converted from their souls. Ikki Kurogane goes to a school for these Magic Knights, but he is the 'Failed Knight' or 'Worst One' who is failing because he has no magical skills. However, one day, he is challenged to a duel by Stella, a foreign princess and the 'Number One' student. In this duel, 'the loser must be obedient for life.'",
+    "ageRating": 14,
+    "thumbnail": "https://media.themoviedb.org/t/p/original/g2DoS2AwOtaRlJStUNlcTsm3pmS.jpg",
+    "tags": ["Sci-Fi & Fantasy", "Action & Adventure"],
+    "internetArchiveUrl": "https://ia600803.us.archive.org/24/items/chivalry-of-a-failed-knight_202409/Chivalry of a Failed Knight/",
+    "seasons": {
+      "s1": {
+        "e1": {
+          "title": "Failed Knight I",
+          "releaseDate": "October 3, 2015",
+          "description": "Ikki Kurogane walks in on Princess Stella Vermillion changing clothes. A duel will settle the matter, but Stella raises the stakes, obligating the loser to lifelong servitude."
+        },
+        "e2": {
+          "title": "Failed Knight II",
+          "releaseDate": "October 10, 2015",
+          "description": "Ikki’s sister, Shizuku, enrolls in the school and causes quite the commotion upon seeing him. With Shizuku's arrival, Stella learns more about Ikki’s history."
+        },
+        "e3": {
+          "title": "Failed Knight III",
+          "releaseDate": "October 17, 2015",
+          "description": "Shizuku invites Ikki to go shopping, but is annoyed when Stella joins them. Ikki meets Shizuku’s roommate, whose device helps the group as they encounter some serious trouble!"
+        },
+        "e4": {
+          "title": "Failed Knight IV",
+          "releaseDate": "October 24, 2015",
+          "description": "Ikki’s first official match approaches! Unfortunately, he and his opponent, Shizuya Kirihara, have a history. Worse, Kirihara has the immediate upper hand due to his device."
+        },
+        "e5": {
+          "title": "The Experience of the Princess",
+          "releaseDate": "October 31, 2015",
+          "description": "As a result of his selection match performances, Ikki gains an unexpected following. Kagami gives Stella some advice that may save the princess and Ikki from parting ways."
+        },
+        "e6": {
+          "title": "Sword Eater I",
+          "releaseDate": "November 7, 2015",
+          "description": "Another student wishes to be Ikki’s pupil, but doesn’t quite know how to ask. Despite her initial awkwardness, Ayatsuji proves to be a hard worker and talented with a sword."
+        },
+        "e7": {
+          "title": "Sword Eater II",
+          "releaseDate": "November 14, 2015",
+          "description": "Ikki’s impending opponent might be the most difficult one yet. He’ll have to rely on his skill and determination to help a friend rediscover their honor."
+        },
+        "e8": {
+          "title": "Sword Eater III",
+          "releaseDate": "November 21, 2015",
+          "description": "In an effort to help Ayase and her father, Ikki challenges Kuraudo Kurashiki, a swordsman from Donro Academy with the nickname 'Sword Eater.'"
+        },
+        "e9": {
+          "title": "Princess' Vacation",
+          "releaseDate": "November 28, 2015",
+          "description": "Stella and Ikki head to what they think is a vacation, only to find multiple surprises lying in wait. Meanwhile, Shizuku makes a visit home."
+        },
+        "e10": {
+          "title": "Witch of the Deep Ocean vs Raikiri",
+          "releaseDate": "December 5, 2015",
+          "description": "Shizuku's next opponent is none other than the student council president, Toka Todo. In the clash between lightning and water, which blazer will emerge as the victor?"
+        },
+        "e11": {
+          "title": "An Uncrowned Champion I",
+          "releaseDate": "December 12, 2015",
+          "description": "An innocent kiss shared in secret becomes the catalyst for a scandal, and Ikki is taken by the ethics committee on counts of 'indecent' behavior with the Crimson Princess."
+        },
+        "e12": {
+          "title": "An Uncrowned Champion II",
+          "releaseDate": "December 19, 2015",
+          "description": "The stage is set and stakes run high as Ikki prepares to face the unbeatable Raikiri. In the end, who will be the victor?"
+        }
+      }
+    }
+  },
+  "GATE": {
+    "title": "Gate",
+    "description": "Off-duty Japan Self-Defense Forces (JSDF) officer and otaku, Youji Itami, is on his way to attend a doujin convention in Ginza, Tokyo when a mysterious portal in the shape of a large gate suddenly appears. From this gate, supernatural creatures and warriors clad in medieval armor emerge, charging through the city, killing and destroying everything in their path. With swift actions, Youji saves as many lives as he can while the rest of the JSDF direct their efforts towards stopping the invasion. Three months after the attack, Youji has been tasked with leading a special recon team, as part of a JSDF task force, that will be sent to the world beyond the gate—now being referred to as the 'Special Region.' They must travel into this unknown world in order to learn more about what they are dealing with and attempt to befriend the locals in hopes of creating peaceful ties with the ruling empire.",
+    "ageRating": 14,
+    "thumbnail": "https://media.themoviedb.org/t/p/original/bCuJkIUg1n9etSYrrQKlQuSrigE.jpg",
+    "tags": ["Action & Adventure", "Comedy", "Drama"],
+    "internetArchiveUrl": "https://ia800103.us.archive.org/32/items/gate_20240930/GATE/",
+    "seasons": {
+      "s1": {
+        "e1": {
+          "title": "The Self-Defense Force Goes to Another World",
+          "releaseDate": "July 4, 2015",
+          "description": "A mysterious 'gate' appears in Tokyo releasing mythical creatures that wreak havoc. Itami, who is part of a special JSDF unit, helps with evacuations."
+        },
+        "e2": {
+          "title": "Two Military Forces",
+          "releaseDate": "July 11, 2015",
+          "description": "In the 'Special Region,' JSDF is able to push back the enemy army. Itami joins a recon team aimed at forming a friendly relationship with the locals."
+        },
+        "e3": {
+          "title": "Fire Dragon",
+          "releaseDate": "July 18, 2015",
+          "description": "Itami's 3rd Recon Unit saves an elf from a village attacked by the Fire Dragon. The villagers of Coda decide to flee to safety."
+        },
+        "e4": {
+          "title": "To Unknown Lands",
+          "releaseDate": "July 25, 2015",
+          "description": "The 3rd Recon Unit returns to base with the refugees. Tuka, Lelei and Rory use this time to learn more about each other and strengthen their bond."
+        },
+        "e5": {
+          "title": "The Battle of Italica",
+          "releaseDate": "August 1, 2015",
+          "description": "The 3rd Recon Unit meets Imperial Princess Piña. Itami decides to protect Italica after hearing that Allied soldiers-turned-bandits have attacked."
+        },
+        "e6": {
+          "title": "Ride of the Valkyries",
+          "releaseDate": "August 8, 2015",
+          "description": "The 3rd Recon Unit battles the bandits in Italica. The battle changes course when air support arrives. Piña is stunned by the JSDF’s military might."
+        },
+        "e7": {
+          "title": "The Princess's Decision",
+          "releaseDate": "August 15, 2015",
+          "description": "While returning from Italica, Itami is captured by the Empire’s Rose Knights. Concerned about JSDF’s response, Piña makes a proposition."
+        },
+        "e8": {
+          "title": "Japan, Beyond the Gate",
+          "releaseDate": "August 22, 2015",
+          "description": "Piña, Itami and the others visit different government offices for negotiations. Piña is awestruck by the impressive skyscrapers and people of Tokyo."
+        },
+        "e9": {
+          "title": "The Hakone Mountain Night Battle",
+          "releaseDate": "August 29, 2015",
+          "description": "Itami hides Tuka and the others in his ex-wife’s apartment. As Piña and Bozes go to the library, Itami meets his old friend, the Minister of Defense."
+        },
+        "e10": {
+          "title": "Despair and Hope",
+          "releaseDate": "September 5, 2015",
+          "description": "When operatives from the U.S., China and Russia approach, Rory uses her unparalleled combat abilities to join in the three-way fight."
+        },
+        "e11": {
+          "title": "Visitor",
+          "releaseDate": "September 12, 2015",
+          "description": "Five months since the war began, the local refugee camp near the Alnus base has become a town. Piña begins peace negotiations with key Empire nobles."
+        },
+        "e12": {
+          "title": "What Would Itami Do?",
+          "releaseDate": "September 19, 2015",
+          "description": "A Dark Elf named Yao asks the JSDF to help drive the Fire Dragon from her hometown. She is mistakenly arrested until Lelei volunteers to interpret."
+        },
+        "e13": {
+          "title": "The Banquet Begins",
+          "releaseDate": "January 9, 2016",
+          "description": "Piña holds a party to advance peace negotiations. Seeing the JSDF’s power, the senators choose peace. Just then, the pro-war Prince Zorzal arrives."
+        },
+        "e14": {
+          "title": "The Imperial Capital Quake",
+          "releaseDate": "January 16, 2016",
+          "description": "After an earthquake strikes the Imperial Capital, Piña brings Itami and the others to meet Emperor Molt. However, they are joined by Prince Zorzal."
+        },
+        "e15": {
+          "title": "Tuka Luna Marceau",
+          "releaseDate": "January 23, 2016",
+          "description": "Itami rejects a mission from Yanagida to exterminate the Fire Dragon. Yao tells Tuka that the dragon killed her father, but she refuses to accept it."
+        },
+        "e16": {
+          "title": "The Fire Dragon, Once More",
+          "releaseDate": "January 30, 2016",
+          "description": "Itami heads to Elbe with Tuka, Lelei and Yao to destroy the Fire Dragon. When General Hazama learns of this mission, he prepares battle support."
+        },
+        "e17": {
+          "title": "Decisive Battle",
+          "releaseDate": "February 6, 2016",
+          "description": "Heavily armed, Itami and the others head to the Fire Dragon’s nest in the Tuba Mountains. Rory sees the dragon in the distance as they set explosives."
+        },
+        "e18": {
+          "title": "The Magic City of Rondel",
+          "releaseDate": "February 13, 2016",
+          "description": "Itami and the others finally defeat the Fire Dragon and save Tuka from her trauma. After being punished, Itami receives new orders."
+        },
+        "e19": {
+          "title": "Dangerous Sisters",
+          "releaseDate": "February 20, 2016",
+          "description": "Emperor Molt collapses at a ceremony and Prince Zorzal declares that he will lead the Empire. A sage named Mimoza tells Itami the secrets of the Gate."
+        },
+        "e20": {
+          "title": "Lover",
+          "releaseDate": "February 27, 2016",
+          "description": "Prince Zorzal suppresses political opposition by arresting anti-war senators. Itami and the others hide after an attempt on Lelei’s life."
+        },
+        "e21": {
+          "title": "Deadline",
+          "releaseDate": "March 5, 2016",
+          "description": "A state official visits the Prime Minister to bolster peace. Itami and the others visit Rondel, home of the Magic Academy, for Lelei to take a test."
+        },
+        "e22": {
+          "title": "The Empress in Slave's Clothing",
+          "releaseDate": "March 12, 2016",
+          "description": "Zorzal’s Imperial Army and the Rose Knights wage an intense battle. Itami learns of an assassination plot as Lelei’s exam approaches its end."
+        },
+        "e23": {
+          "title": "Paradrop",
+          "releaseDate": "March 19, 2016",
+          "description": "The JSDF aims to save the Japanese people and pro-peace nobles. Itami rushes to the Imperial Capital after hearing of Piña’s imprisonment."
+        },
+        "e24": {
+          "title": "Thus They Fought",
+          "releaseDate": "March 26, 2016",
+          "description": "Itami and the 3rd Recon Unit head to the Imperial Palace to save Piña and the Emperor. However, Prince Zorzal is waiting for them with a giant Orge."
+        }
+      }
+    }
+  },
+  "No Game, No Life": {
+    "title": "No Game No Life",
+    "description": "Online gamer siblings are thrust into a new realm where they must play to take over the world.",
+    "ageRating": 14,
+    "thumbnail": "https://media.themoviedb.org/t/p/original/kN4BhRDbP3b1nuxpYC443jVLEh5.jpg",
+    "tags": ["Sci-Fi & Fantasy", "Action & Adventure", "Comedy"],
+    "internetArchiveUrl": "https://ia600102.us.archive.org/13/items/no-game-no-life_202409/No Game, No Life/",
+    "seasons": {
+      "s1": {
+        "e1": {
+          "title": "Beginner",
+          "releaseDate": "April 9, 2014",
+          "description": "Sora and Shiro are unemployed and never leave their house, but on the net, they're known as 'Blank', an invincible team of gamers. One day, these siblings are visited by a boy named Tet, who calls himself god. Tet summons them to a world where all war is banned, and everything is decided by games."
+        },
+        "e2": {
+          "title": "Challenger",
+          "releaseDate": "April 16, 2014",
+          "description": "Sora and Shiro have been abandoned in another world by Tet. In this world all war is forbidden, and everything is determined by games whose rules are determined by the 'Ten Pledges' that Tet established. They find themselves in the country of humanity, the weakest of the 16 races in this new world."
+        },
+        "e3": {
+          "title": "Expert",
+          "releaseDate": "April 23, 2014",
+          "description": "A girl named Clamy has won the right to be the next king of Elukia by her overwhelming good luck. Steph lost to her and loses the chance to become the next ruler. Just as she defeats the last challenger, however, Sora and Shiro interrupt her."
+        },
+        "e4": {
+          "title": "Grandmaster",
+          "releaseDate": "April 30, 2014",
+          "description": "The game Clamy challenged them to wasn't normal chess. Shiro is a chess master, but even she is helpless against Clami's assault. But when Shiro understands the real rules of the game, things begin to turn around. The battle to determine the king of Elukia, and all of humanity, finally reaches its end."
+        },
+        "e5": {
+          "title": "Weak Square",
+          "releaseDate": "May 7, 2014",
+          "description": "Sora and Shiro leave the running of the country to Steph and spend every day playing video games. Steph's hope that they would become not only the saviors of Elukia, but all of humanity, crumbles away."
+        },
+        "e6": {
+          "title": "Interesting",
+          "releaseDate": "May 14, 2014",
+          "description": "The siblings confront Jibril, a member of the Flügel race to reclaim the royal library in a game of Shiritori."
+        },
+        "e7": {
+          "title": "Sacrifice",
+          "releaseDate": "May 21, 2014",
+          "description": "Intending to challenge the Werebeasts, the siblings discover that it's hard to come up with a strategy to defeat the latter, as all memories regarding the games are erased from their challengers, until Stephanie entrusts Sora a key left by the former king, leading to his secret research on how to outwit them."
+        },
+        "e8": {
+          "title": "Fake End",
+          "releaseDate": "May 28, 2014",
+          "description": "Sora, Shiro, Steph and Jibril devise a risky plan with even riskier stakes, making their way to the Warbeast embassy to challenge them."
+        },
+        "e9": {
+          "title": "Sky Walk",
+          "releaseDate": "June 4, 2014",
+          "description": "Foul play is suspected when Sora is nowhere to be found after Shiro wakes up, spurring him to action."
+        },
+        "e10": {
+          "title": "Blue Rose",
+          "releaseDate": "June 11, 2014",
+          "description": "Sora, Shiro and the rest prepare themselves for a game with the Warbeasts through trust exercises and cunning strategy. The stakes are high, but Sora, as always, has a plan."
+        },
+        "e11": {
+          "title": "Killing Giant",
+          "releaseDate": "June 18, 2014",
+          "description": "Izuna, though powerful, has been matched in gameplay. This first person shooter will test their limits in virtual space. As tensions flare, friendly fire becomes imminent."
+        },
+        "e12": {
+          "title": "Rule Number 10",
+          "releaseDate": "June 25, 2014",
+          "description": "While Izuna's abilities seemingly defy physics, Sora and Shiro make potentially futile attempts to amp up their game."
+        }
+      }
+    }
+  },
+  "Reincarnated as a Sword": {
+    "title": "Reincarnated as a Sword",
+    "description": "Reincarnated as a sentient weapon with memories of his past life, but not his name, a magical sword saves a young beastgirl from a life of slavery. Fran, the cat-eared girl, becomes his wielder, and wants only to grow stronger, while the sword wants to know why he is here. Together, the strange duo's journey has only just begun!",
+    "ageRating": 14,
+    "thumbnail": "https://media.themoviedb.org/t/p/original/yZ3VZVc7iyF7KtIjERBGEedVXqA.jpg",
+    "tags": ["Comedy", "Sci-Fi & Fantasy"],
+    "internetArchiveUrl": "https://ia600103.us.archive.org/19/items/reincarnated-as-a-sword_202409/Reincarnated as a Sword/",
+    "seasons": {
+      "s1": {
+        "e1": {
+          "title": "Catgirl Meets Sword",
+          "releaseDate": "September 28, 2022",
+          "description": "A sentient sword. A powerless girl. The adventure of a lifetime begins when Fran, an enslaved cat-girl, stumbles upon a living blade in her darkest hour."
+        },
+        "e2": {
+          "title": "The Hellish Trial at the Adventurer's Guild",
+          "releaseDate": "October 5, 2022",
+          "description": "To become a full-fledged adventurer, Fran must pass an intimidating test. But even if she passes, will other adventurers give a lowly cat-girl a chance to fit in?"
+        },
+        "e3": {
+          "title": "The Grizzled Old Blacksmith",
+          "releaseDate": "October 12, 2022",
+          "description": "New gear, fancy digs, yummy food — Fran is in heaven. The only thing that could make this better is a fun guild mission! But dangers lurk in the shadows, waiting to strike…"
+        },
+        "e4": {
+          "title": "The Terrifying Goblin Stampede",
+          "releaseDate": "October 19, 2022",
+          "description": "Growth and responsibility go hand in hand. After her recent exploits, Fran is offered an unusual job that will test all her hard-won new abilities."
+        },
+        "e5": {
+          "title": "The Feeble First Dungeon",
+          "releaseDate": "October 26, 2022",
+          "description": "Propelled by promises of curry, Fran rushes in with Teacher at her side… but their target, the Dungeon Master, does not wait for them alone."
+        },
+        "e6": {
+          "title": "The Greater Demon Cheated",
+          "releaseDate": "November 2, 2022",
+          "description": "Fran and Teacher face off against their toughest adversary yet, but it’s not just their lives on the line. The fate of everyone in Alessa rests on their shoulders."
+        },
+        "e7": {
+          "title": "The Horrible Lieutenant of the Knights Brigade",
+          "releaseDate": "November 9, 2022",
+          "description": "Monsters aren’t the only adversaries waiting to challenge Fran, but defeating slimy nobles at their own game will take a specialized approach — and a certain new skill."
+        },
+        "e8": {
+          "title": "The Villainous Blue Cat",
+          "releaseDate": "November 16, 2022",
+          "description": "Which foe presents the tougher challenge: the mortal enemy of the Black Cats, or the fear of what that enemy represents? Fran will overcome them all in her quest for justice."
+        },
+        "e9": {
+          "title": "The Monstrous Rank A Adventurer",
+          "releaseDate": "November 23, 2022",
+          "description": "Fran sets out with a party to tackle the Spider's Nest, but one party member isn't convinced she deserves her rank. A friendly duel will set the record straight."
+        },
+        "e10": {
+          "title": "The Totally Unfair Spider Traps",
+          "releaseDate": "November 30, 2022",
+          "description": "The party ventures into the Spider’s Web dungeon… But are they the hunters or the prey?"
+        },
+        "e11": {
+          "title": "The Wolf Summoned Hither",
+          "releaseDate": "December 7, 2022",
+          "description": "When Fran and Teacher are separated, Teacher is faced with a decision that could destroy him — but desperate times call for desperate measures."
+        },
+        "e12": {
+          "title": "An Excited Fran Sets Off",
+          "releaseDate": "December 14, 2022",
+          "description": "It’s a race against time as Fran and Teacher rush to the aid of the adventuring party. In the aftermath, Amanda reflects on an unexpected connection she has to Fran."
         }
       }
     }
